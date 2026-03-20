@@ -1,0 +1,1 @@
+# analise-mercado-gamer-steam

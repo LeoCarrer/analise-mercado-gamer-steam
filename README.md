@@ -86,19 +86,19 @@ Os gráficos serão gerados automaticamente na pasta `graficos/`.
 ## 📊 Visualizações
 
 ### Gêneros mais comuns na Steam
-![Gêneros](graficos/01_generos_mais_comuns.png)
+![Gêneros](01_generos_mais_comuns.png)
 
 ### Distribuição de preços dos jogos pagos
-![Preços](graficos/02_distribuicao_precos.png)
+![Preços](02_distribuicao_precos.png)
 
 ### Proporção de jogos gratuitos vs pagos
-![Tipo](graficos/03_gratuito_vs_pago.png)
+![Tipo](03_gratuito_vs_pago.png)
 
 ### Taxa de aprovação: gratuitos vs pagos
-![Aprovação](graficos/04_aprovacao_gratuito_pago.png)
+![Aprovação](04_aprovacao_gratuito_pago.png)
 
 ### Top 10 jogos com suporte a Português
-![PT-BR](graficos/05_top_jogos_ptbr.png)
+![PT-BR](05_top_jogos_ptbr.png)
 
 ---
 
